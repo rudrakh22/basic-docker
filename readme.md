@@ -1,9 +1,9 @@
 # Introduction to docker
 ##  Why docker
  Docker are important for some few reasons-
-        - Kubernates/Container orchestration
-        - Running processes in isolated environments
-        - Starting projects/services locally
+- Kubernates/Container orchestration
+- Running processes in isolated environments
+- Starting projects/services locally
 ## Containerization
 #### What are containers
 - Containers are a way to package and       distribute software applications in an way that makes easy to deploy and run consistently accross different environments.
