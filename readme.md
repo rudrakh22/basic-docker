@@ -1,6 +1,6 @@
 # Introduction to docker
 ##  Why docker
-    Docker are important for some few reasons-
+ Docker are important for some few reasons-
         - Kubernates/Container orchestration
         - Running processes in isolated environments
         - Starting projects/services locally
